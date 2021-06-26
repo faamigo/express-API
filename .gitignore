@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+db.json
+sessions
+package-lock.json
+config.js
+mongo.txt
+*/.DS_Store
+*/*/.DS_Store
