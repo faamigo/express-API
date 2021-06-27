@@ -1,4 +1,11 @@
-# Node-API para practicar
-API construida en NodeJS, Express, MongoDB & Mongoose
-* Restaurante - API
-* Models: Dishes, leaders, promotions
+# Express API 
+## API of a fictitious restaurant
+
+This is a backend API for a fictitious restaurant made on NodeJS, ExpressJS and MongoDB.
+
+Models:
+- Dishes
+- Leaders
+- Favorites
+- Promotions
+- Users
